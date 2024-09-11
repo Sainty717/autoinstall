@@ -1,5 +1,4 @@
 $apps = @(
-	"Chrome*",
 	"7-Zip*", 
 	"Foxit*", 
 	"Zoom*", 
